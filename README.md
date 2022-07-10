@@ -6,4 +6,4 @@ LeetCode questions practice
 
 ### 2. Greedy
 
-- [455] Assign Cookies
+- [[455] Assign Cookies](https://leetcode.com/problems/assign-cookies/)
