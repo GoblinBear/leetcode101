@@ -4,6 +4,6 @@ LeetCode questions practice
 
 ## Done
 
-### Greedy
+### 2. Greedy
 
-- 455. Assign Cookies
+- [455] Assign Cookies
