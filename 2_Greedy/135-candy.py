@@ -5,7 +5,7 @@ def candy(ratings):
     
     num = [1] * size
 
-    for i in range(1, size, 1):
+    for i in range(1, size):
         if ratings[i] > ratings[i-1]:
             num[i] = num[i-1] + 1
 
