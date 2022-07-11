@@ -13,3 +13,4 @@ LeetCode questions practice
 ### 3. Double Pointer
 
 - [[167] Two Sum II - Input Array Is Sorted (Easy)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+- [[88] Merge Sorted Array (Easy)](https://leetcode.com/problems/merge-sorted-array/)
