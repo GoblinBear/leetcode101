@@ -15,4 +15,6 @@ def find_content_children(g, s):
 
 # Test
 print(find_content_children([1, 2, 3], [1, 1]))
+# Output: 1
 print(find_content_children([1, 2], [1, 2, 3]))
+# Output: 2
