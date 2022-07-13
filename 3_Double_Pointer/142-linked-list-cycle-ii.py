@@ -24,14 +24,6 @@ class LinkedList:
         return new_node
 
 
-def create_linked_list(elements):
-    linked_list = LinkedList()
-    for element in elements:
-        linked_list.append(element)
-    
-    return linked_list
-
-
 def detect_cycle(head):
     slow = head
     fast = head
