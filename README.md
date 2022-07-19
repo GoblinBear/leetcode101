@@ -15,3 +15,7 @@ LeetCode questions practice
 - [[167] Two Sum II - Input Array Is Sorted (Easy)](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [[88] Merge Sorted Array (Easy)](https://leetcode.com/problems/merge-sorted-array/)
 - [[142] Linked List Cycle II (Medium)](https://leetcode.com/problems/linked-list-cycle-ii/)
+
+### 4. Binary Search
+
+- [[69] Sqrt(x) (Easy)](https://leetcode.com/problems/sqrtx/)
