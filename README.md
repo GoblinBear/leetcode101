@@ -19,3 +19,4 @@ LeetCode questions practice
 ### 4. Binary Search
 
 - [[69] Sqrt(x) (Easy)](https://leetcode.com/problems/sqrtx/)
+- [[34] Find First and Last Position of Element in Sorted Array (Medium)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
