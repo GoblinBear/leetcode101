@@ -26,4 +26,5 @@ LeetCode questions practice
 - [[448] Find All Numbers Disappeared in an Array (Easy)](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - [[48] Rotate Image (Medium)](https://leetcode.com/problems/rotate-image/)
 - [[240] Search a 2D Matrix II (Medium)](https://leetcode.com/problems/search-a-2d-matrix-ii/)
-- [[769] Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)
+- [[769] Max Chunks To Make Sorted (Medium)](https://leetcode.com/problems/max-chunks-to-make-sorted/)
+- [[155] Min Stack (Easy)](https://leetcode.com/problems/min-stack/)
