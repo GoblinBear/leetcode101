@@ -30,3 +30,4 @@ LeetCode questions practice
 - [[155] Min Stack (Easy)](https://leetcode.com/problems/min-stack/)
 - [[20] Valid Parentheses (Easy)](https://leetcode.com/problems/valid-parentheses/)
 - [[739] Daily Temperatures (Medium)](https://leetcode.com/problems/daily-temperatures/)
+- [[23] Merge k Sorted Lists (Hard)](https://leetcode.com/problems/merge-k-sorted-lists/)
