@@ -28,3 +28,5 @@ LeetCode questions practice
 - [[240] Search a 2D Matrix II (Medium)](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 - [[769] Max Chunks To Make Sorted (Medium)](https://leetcode.com/problems/max-chunks-to-make-sorted/)
 - [[155] Min Stack (Easy)](https://leetcode.com/problems/min-stack/)
+- [[20] Valid Parentheses (Easy)](https://leetcode.com/problems/valid-parentheses/)
+- [[739] Daily Temperatures (Medium)](https://leetcode.com/problems/daily-temperatures/)
