@@ -32,3 +32,4 @@ LeetCode questions practice
 - [[739] Daily Temperatures (Medium)](https://leetcode.com/problems/daily-temperatures/)
 - [[23] Merge k Sorted Lists (Hard)](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [[1] Two Sum (Easy)](https://leetcode.com/problems/two-sum/)
+- [[303] Range Sum Query - Immutable (Easy)](https://leetcode.com/problems/range-sum-query-immutable/)
