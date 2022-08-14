@@ -4,6 +4,15 @@ class ListNode:
         self.next = next
 
 
+def print_list(head):
+    current = head
+    while current:
+        print(f'{current.val} ', end='')
+        current = current.next
+    
+    print()
+
+
 def reverse_list(head):
     previos = None
     next = None
@@ -15,15 +24,6 @@ def reverse_list(head):
         head = next
 
     return previos
-
-
-def print_list(head):
-    current = head
-    while current:
-        print(f'{current.val} ', end='')
-        current = current.next
-    
-    print()
 
 
 # Test

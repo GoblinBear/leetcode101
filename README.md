@@ -37,3 +37,4 @@ LeetCode questions practice
 ### 13. Linked List
 
 - [[206] Reverse Linked List (Easy)](https://leetcode.com/problems/reverse-linked-list/)
+- [[21] Merge Two Sorted Lists (Easy)](https://leetcode.com/problems/merge-two-sorted-lists/)
