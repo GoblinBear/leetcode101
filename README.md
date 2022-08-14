@@ -33,3 +33,4 @@ LeetCode questions practice
 - [[23] Merge k Sorted Lists (Hard)](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [[1] Two Sum (Easy)](https://leetcode.com/problems/two-sum/)
 - [[303] Range Sum Query - Immutable (Easy)](https://leetcode.com/problems/range-sum-query-immutable/)
+- [[206] Reverse Linked List (Easy)](https://leetcode.com/problems/reverse-linked-list/)
