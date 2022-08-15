@@ -12,10 +12,9 @@ def max_depth(root):
         return 0
 
 
+# Test
 tree = TreeNode(3,
                 TreeNode(9, None, None),
                 TreeNode(20, TreeNode(15, None, None), TreeNode(7, None, None)))
-
-# Test
 print(max_depth(tree))
 # Output: 3
