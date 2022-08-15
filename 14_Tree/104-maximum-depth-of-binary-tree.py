@@ -18,3 +18,4 @@ tree = TreeNode(3,
 
 # Test
 print(max_depth(tree))
+# Output: 3
