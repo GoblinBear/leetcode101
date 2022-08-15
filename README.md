@@ -38,3 +38,7 @@ LeetCode questions practice
 
 - [[206] Reverse Linked List (Easy)](https://leetcode.com/problems/reverse-linked-list/)
 - [[21] Merge Two Sorted Lists (Easy)](https://leetcode.com/problems/merge-two-sorted-lists/)
+
+### 14.Tree
+
+- [[104] Maximum Depth of Binary Tree (Easy)](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
