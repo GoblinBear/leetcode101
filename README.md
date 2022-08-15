@@ -43,3 +43,4 @@ LeetCode questions practice
 
 - [[104] Maximum Depth of Binary Tree (Easy)](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [[110] Balanced Binary Tree (Easy)](https://leetcode.com/problems/balanced-binary-tree/)
+- [[637] Average of Levels in Binary Tree (Easy)](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
