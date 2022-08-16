@@ -46,3 +46,4 @@ LeetCode questions practice
 - [[637] Average of Levels in Binary Tree (Easy)](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
 - [[144] Binary Tree Preorder Traversal (Easy)](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 - [[669] Trim a Binary Search Tree (Medium)](https://leetcode.com/problems/trim-a-binary-search-tree/)
+- [[208] Implement Trie (Prefix Tree) (Medium)](https://leetcode.com/problems/implement-trie-prefix-tree/)
