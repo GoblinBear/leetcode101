@@ -21,6 +21,10 @@ LeetCode questions practice
 - [[69] Sqrt(x) (Easy)](https://leetcode.com/problems/sqrtx/)
 - [[34] Find First and Last Position of Element in Sorted Array (Medium)](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
+### 05. Sorting
+
+- [[215] Kth Largest Element in an Array (Medium)](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+
 ### 11. Data Structure
 
 - [[448] Find All Numbers Disappeared in an Array (Easy)](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
