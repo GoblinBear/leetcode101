@@ -24,6 +24,7 @@ LeetCode questions practice
 ### 05. Sorting
 
 - [[215] Kth Largest Element in an Array (Medium)](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [[347] Top K Frequent Elements (Medium)](https://leetcode.com/problems/top-k-frequent-elements/)
 
 ### 11. Data Structure
 
