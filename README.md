@@ -42,6 +42,7 @@ LeetCode questions practice
 ### 12. String
 
 - [[242] Valid Anagram (Easy)](https://leetcode.com/problems/valid-anagram/)
+- [[205] Isomorphic Strings (Easy)](https://leetcode.com/problems/isomorphic-strings/)
 
 ### 13. Linked List
 
