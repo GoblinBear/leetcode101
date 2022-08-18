@@ -39,6 +39,10 @@ LeetCode questions practice
 - [[1] Two Sum (Easy)](https://leetcode.com/problems/two-sum/)
 - [[303] Range Sum Query - Immutable (Easy)](https://leetcode.com/problems/range-sum-query-immutable/)
 
+### 12. String
+
+- [[242] Valid Anagram (Easy)](https://leetcode.com/problems/valid-anagram/)
+
 ### 13. Linked List
 
 - [[206] Reverse Linked List (Easy)](https://leetcode.com/problems/reverse-linked-list/)
